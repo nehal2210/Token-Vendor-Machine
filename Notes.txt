@@ -1,0 +1,14 @@
+
+######################################
+UNI Token
+
+The UNI token is used for voting on governance proposals and to provide liquidity to the Uniswap protocol. 
+Some decisions that UNI token holders can decide on are whether to add new features to the protocol or to change the fee structure.
+
+##########################################################
+AAve Token
+
+Holding AAVE tokens typically gives users discounted trading fees on the platform. 
+Borrowers who offer up AAVE tokens as collateral for their loans may also get discounts on fees. 
+These borrowers also gain the ability to take out larger loans. 
+On the other side, users can lend AAVE and collect interest
